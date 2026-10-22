@@ -1,0 +1,35 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MobWithArgusAdapter",
+    "printedName": "MobWithArgusAdapter",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobWithArgusAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithArgusAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Aistra",
+        "printedName": "Aistra",
+        "declKind": "Import",
+        "moduleName": "MobWithArgusAdapter"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
